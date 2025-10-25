@@ -1,4 +1,3 @@
-```markdown
 # Weather Prediction Application
 
 A web application that predicts the weather for any city using a weather API and displays it in a clean, responsive interface.
